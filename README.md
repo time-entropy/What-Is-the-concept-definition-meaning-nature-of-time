@@ -16,16 +16,14 @@ Energy transfers between adjacent SEQ units occur in discrete packets (quantized
 Each transformation increases entropy, creating the irreversible "forward" motion we perceive as time.
 This aligns with the second law of thermodynamics but roots it in quantum-scale mechanics.
 
-#3. Relativity and Time Dilation, Reimagined
+#3. gravitational Time Dilation, Reimagined
 Einstein showed time slows near massive objects or at high speeds. The SEQ model explains this via network deformation:
 
 Gravity arises from SU(3) symmetry-mediated spatial compression (think of space as a stretchable fabric)
 
-Heavy objects compress the SEQ network locally, slowing its transformation frequency—this is time dilation at the quantum level.
-
-
-
-
+Heavy objects deform the SEQ network locally, slowing its transformation frequency—this is gravitaional time dilation at the quantum level.
 
 Conclusion: Time as Cosmic Code
 Time isn’t a backdrop but a dynamic, quantized process woven into the universe’s fabric. By tying entropy, quantum mechanics, and relativity into a unified framework, this theory opens doors to understanding how the cosmos computes its own existence—one Planck-sized step at a time.
+
+More details: Time-Entropy Mirroring via Space Transformation and Mass-Gravity Duality via QCD-Higgs Synergy. Preprints. https://doi.org/10.20944/preprints202505.0270.v1 
