@@ -26,4 +26,6 @@ Heavy objects deform the SEQ network locally, slowing its transformation frequen
 Conclusion: Time as Cosmic Code
 Time isn’t a backdrop but a dynamic, quantized process woven into the universe’s fabric. By tying entropy, quantum mechanics, and relativity into a unified framework, this theory opens doors to understanding how the cosmos computes its own existence—one Planck-sized step at a time.
 
+https://cosmoquanta.com/
+
 More details: Time-Entropy Mirroring via Space Transformation and Mass-Gravity Duality via QCD-Higgs Synergy. Preprints. https://doi.org/10.20944/preprints202505.0270.v1 
