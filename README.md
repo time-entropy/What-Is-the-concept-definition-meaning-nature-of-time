@@ -1,6 +1,6 @@
-# what-is-time?
 
-### What Is Time? A Quantum Thermodynamic Perspective
+
+# What Is Time? A Quantum Thermodynamic Perspective
 
 #Time is one of the most fundamental yet enigmatic concepts in physics. Traditional theories often treat time as a continuous, flowing dimension. However, recent research in analytic quantum thermodynamics proposes a radical rethinking: time emerges from discrete, entropy-driven transformations of a quantum network at the Planck scale. Here’s a breakdown of this groundbreaking idea in accessible terms.
 
